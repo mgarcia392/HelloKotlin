@@ -20,4 +20,7 @@ fun main() {
     sum -= y
 
     println("sum is now $sum")
+
+    sum += x
+    println("sum is now $sum")
 }

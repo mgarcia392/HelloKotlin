@@ -17,4 +17,7 @@ fun main() {
 
     println("$x + $y = $sum")
 
+    sum -= y
+
+    println("sum is now $sum")
 }
